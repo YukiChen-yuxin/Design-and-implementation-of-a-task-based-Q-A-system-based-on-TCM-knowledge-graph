@@ -1,0 +1,19 @@
+{
+    "E-dru": 0,
+    "I-che": 1,
+    "E-dep": 2,
+    "B-dru": 3,
+    "I-sym": 4,
+    "I-dep": 5,
+    "B-che": 6,
+    "E-sym": 7,
+    "S": 8,
+    "I-dru": 9,
+    "B-dep": 10,
+    "E-che": 11,
+    "B-sym": 12,
+    "O": 13,
+    "B-dis": 14,
+    "E-dis": 15,
+    "I-dis": 16
+}
