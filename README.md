@@ -15,10 +15,10 @@ Finally, the key TCM entities and corresponding query types of the question are 
 Experimental results show that the task-based question answering system based on the TCM knowledge graph fully implements the process from data collection to question answering retrieval applications for TCM-related knowledge and can provide relatively accurate answers to users' natural language queries.               
 
 ## How to Contribute
-Please note that this project is released with a [Contributor Code of Conduct](https://github.com/KingOfOrikid/DATA551_proj/blob/main/CODE_OF_CONDUCT.md).
+Please note that this project is released with a [Contributor Code of Conduct](https://github.com/KingOfOrikid/Design-and-implementation-of-a-task-based-Q-A-system-based-on-TCM-knowledge-graph/blob/main/CODE_OF_CONDUCT.md).
 By participating in this project you agree to abide by its terms.              
          
-If you think you can help in any of these areas or in many areas we haven't thought of yet, then please take a look at our [Contributors' guidelines](https://github.com/KingOfOrikid/DATA551_proj/blob/main/CONTRIBUTING.md).          
+If you think you can help in any of these areas or in many areas we haven't thought of yet, then please take a look at our [Contributors' guidelines](https://github.com/KingOfOrikid/Design-and-implementation-of-a-task-based-Q-A-system-based-on-TCM-knowledge-graph/blob/main/CONTRIBUTING.md).          
            
 ## Contact us
 If you want to report a problem or suggest an enhancement we'd love for you to [open an issue](../../issues) at this github repository because then we can get right on it. But you can also contact [Yuki(Yuxin)](https://github.com/KingOfOrikid) by email yuxin.yuki.chen@gmail.com.
