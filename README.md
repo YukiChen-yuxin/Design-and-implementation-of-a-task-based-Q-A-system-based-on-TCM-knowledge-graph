@@ -1,7 +1,7 @@
 # Design and implementation of a task-based Q&A system based on TCM knowledge graph
 
 ## Group information
-- **Group members: Yuxin Chen & Ying Xu
+- **Group members**: Yuxin Chen & Ying Xu
 
 ## Introduction
 The question answering system uses natural language as the interaction method, providing concise and effective answers to user's questions. The use of question answering systems for information retrieval meets the modern society's demand for efficient and accurate information retrieval, and the development of knowledge graph technology provides abundant data support for the advancement of question answering systems. The knowledge-based question answering system is based on the structured knowledge stored in the knowledge graph, which processes and understands natural language questions asked by users, searches for answers and returns them to the user. Traditional Chinese medicine (TCM) has accumulated profound and effective medical practice theories as China's traditional medicine. The research on task-based question answering system based on TCM knowledge graph mainly includes the following contents:
